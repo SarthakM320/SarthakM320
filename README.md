@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more about LLMS**
 
-- 👨‍💻 All of my projects are available at [sarthakm320.github.io](https://sarthakm320.github.io/)]
+- 👨‍💻 All of my projects are available at [https://sarthakm320.github.io](sarthakm320.github.io/)]
 
 - 📫 How to reach me **sarthak2002.mehrotra@gmail.com**
 
